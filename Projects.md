@@ -2,6 +2,7 @@
 
 ## Business Operations
 Project Name: 2024 AFP Challenge
+
 Project Link: [AFP Challenge](https://github.com/edimaudo/hackathon_coding_challenges/tree/master/afp_challenge)
 
 ## Data Visualization
